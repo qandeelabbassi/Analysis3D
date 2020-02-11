@@ -1,0 +1,27 @@
+@import url(../scripts/libs/Cesium/Widgets/widgets.css);
+
+html, body, #cesiumContainer {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.footerButton {
+  margin: 10px;
+}
+
+#editFooter {
+  height: 50px;
+  width: 10%;
+  justify-content: center;
+  display: none;
+  text-align: center;
+  margin: auto;
+  z-index: 100;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 70px;
+}
