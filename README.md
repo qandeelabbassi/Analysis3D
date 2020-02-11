@@ -9,4 +9,6 @@
 5. Open this link http://localhost:8080/app/index.html in browser
 
 ## Current Status:
-* [ ] Polygon/Line drawing and measurement tool (70% done)
+* [x] Polygon/Line drawing
+* [ ] Polygon/Line measurement
+
