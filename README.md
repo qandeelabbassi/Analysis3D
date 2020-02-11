@@ -10,5 +10,5 @@
 
 ## Current Status:
 * [x] Polygon/Line drawing
-* [ ] Polygon/Line measurement
+* [ ] Polygon/Line measurement (70% done)
 
