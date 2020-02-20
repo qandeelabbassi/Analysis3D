@@ -8,6 +8,12 @@
 4. Start the server using `node server.js` command in root folder of the project
 5. Open this link http://localhost:8080/app/index.html in browser
 
+## Screenshots:
+
+![line drawing](https://github.com/qandeelabbassi/Analysis3D/blob/master/screenshots/line-drawing.PNG "Line drawing")
+
+![polygon drawing](https://github.com/qandeelabbassi/Analysis3D/blob/master/screenshots/polygon-drawing.PNG "Polygon drawing")
+
 ## Current Status:
 * [x] Polygon/Line drawing
 * [ ] Polygon/Line measurement (70% done)
