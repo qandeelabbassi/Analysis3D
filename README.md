@@ -16,5 +16,6 @@
 
 ## Current Status:
 * [x] Polygon/Line drawing
-* [ ] Polygon/Line measurement (70% done)
+* [x] Polygon/Line measurement
+* [ ] Asset/object classification (In progress)
 
